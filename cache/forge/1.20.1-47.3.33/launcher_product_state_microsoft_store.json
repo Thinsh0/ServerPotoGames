@@ -1,0 +1,14 @@
+{
+  "products" : {
+    "bedrock-retail-Uwp" : {
+      "lastEpochTimeUpdateCheck" : 1737829656
+    },
+    "dungeons-retail-Uwp" : {
+      "lastEpochTimeUpdateCheck" : 1737829652
+    },
+    "java-retail-Piston" : {
+      "lastEpochTimeUpdateCheck" : 1737829652
+    }
+  },
+  "version" : 1
+}
