@@ -443,16 +443,6 @@
           }
         },
         {
-          "id": "me.cortex.nvidium:acedium:0.2.7-beta@jar",
-          "name": "Acedium",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 160374,
-            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/main/servers/PotoGames-1.20.1/forgemods/required/acedium-0.2.7-beta.jar",
-            "MD5": "63a487b5dd5c8dded2e37ba003983980"
-          }
-        },
-        {
           "id": "dqu.additionaladditions:additionaladditions:6.0.1@jar",
           "name": "Additional Additions",
           "type": "ForgeMod",
@@ -1880,16 +1870,6 @@
             "size": 100660,
             "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/main/servers/PotoGames-1.20.1/forgemods/required/elytraslot-forge-6.4.4+1.20.1.jar",
             "MD5": "54fd8868bbff9fc88befe9b32555dfe8"
-          }
-        },
-        {
-          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
-          "name": "Embeddium",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1320675,
-            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/main/servers/PotoGames-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
-            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           }
         },
         {
@@ -3443,26 +3423,6 @@
           }
         },
         {
-          "id": "top.leonx:irisflw:1.1.2@jar",
-          "name": "Oculus Flywheel Compat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 69275,
-            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/main/servers/PotoGames-1.20.1/forgemods/required/oculus-flywheel-compat-forge1.20.1+1.1.2.jar",
-            "MD5": "e7c455c2170420a0df1ae89e1f87e7ec"
-          }
-        },
-        {
-          "id": "net.irisshaders.iris:oculus:1.7.0@jar",
-          "name": "Oculus",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2831148,
-            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/main/servers/PotoGames-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
-            "MD5": "45b96133bb46cc61dd9778bd4fca741d"
-          }
-        },
-        {
           "id": "net.potionstudios:biomeswevegone:1.5.8@jar",
           "name": "Oh The Biomes We've Gone",
           "type": "ForgeMod",
@@ -3800,16 +3760,6 @@
             "size": 277896,
             "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/main/servers/PotoGames-1.20.1/forgemods/required/rrls-4.0.6.1+mc1.20.1-forge.jar",
             "MD5": "6ff0f56b3e745f8da8759cda0a70c236"
-          }
-        },
-        {
-          "id": "me.flashyreese.mods.sodiumextra:embeddium_extra:0.5.4.4+mc1.20.1-build.131@jar",
-          "name": "Embeddium Extra",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 568608,
-            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/main/servers/PotoGames-1.20.1/forgemods/required/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
-            "MD5": "a96fb0a07b75eb07b200e8f9c0dfb9f4"
           }
         },
         {
