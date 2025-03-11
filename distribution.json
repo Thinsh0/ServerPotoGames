@@ -3993,16 +3993,6 @@
           }
         },
         {
-          "id": "com.helliongames:snifferplus:0.3.0@jar",
-          "name": "Hellion's Sniffer+",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 242339,
-            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/main/servers/PotoGames-1.20.1/forgemods/required/Sniffer+-forge-1.20.1-0.3.0.jar",
-            "MD5": "f929643f980cf7b18d9adc2eff61a199"
-          }
-        },
-        {
           "id": "snownee.snow:snowrealmagic:10.5.2@jar",
           "name": "Snow! Real Magic!",
           "type": "ForgeMod",
