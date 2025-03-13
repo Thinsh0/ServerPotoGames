@@ -89,3 +89,6 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+.vs/ServerPotoGames/FileContentIndex/692560db-58fd-4b9c-a1d1-d3398b69d175.vsidx
+.vs/ServerPotoGames/FileContentIndex/d7b66943-f78d-45be-8d93-15ce952999a5.vsidx
+.vs/ServerPotoGames/FileContentIndex/fc5a4c4f-3ccc-41dd-87f7-9c1fe4853b39.vsidx
