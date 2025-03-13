@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///D:/App/PotoGames%20Launcher/Nebulaa/Nebula-master/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///C:/Users/enzom/Documents/GitHub/ServerPotoGames/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
     "name": "PotoGames (Minecraft 1.20.1)",
