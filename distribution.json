@@ -4956,16 +4956,6 @@
           }
         },
         {
-          "id": "com.yungnickyoung.minecraft:yungscavebiomes:1.20.1-Forge-2.0.2@jar",
-          "name": "YUNG's Cave Biomes",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 13008277,
-            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/refs/heads/main/servers/PotoGames-1.20.1/forgemods/required/YungsCaveBiomes-1.20.1-Forge-2.0.2.jar",
-            "MD5": "c51ce16ace4d429a857f7106cfb9f6d7"
-          }
-        },
-        {
           "id": "com.yungnickyoung.minecraft:yungsextras:1.20-Forge-4.0.3@jar",
           "name": "YUNG's Extras",
           "type": "ForgeMod",
