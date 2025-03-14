@@ -13,7 +13,7 @@
       "description": "PotoGames Running Minecraft 1.20.1 (Forge v47.3.33)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "play.potogames.fr:25607",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
