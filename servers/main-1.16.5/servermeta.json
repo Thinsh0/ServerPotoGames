@@ -2,17 +2,12 @@
   "$schema": "file:///C:/Users/enzom/Documents/GitHub/ServerPotoGames/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "main (Minecraft 1.16.5)",
+    "name": "Ragnamod VI",
     "description": "main Running Minecraft 1.16.5 (Forge v36.2.34)",
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
-    "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-    },
-    "mainServer": false,
-    "autoconnect": false
+    "icon": "",
+    "address": "play.potogames.fr:25607",
+    "mainServer": true,
+    "autoconnect": true
   },
   "forge": {
     "version": "36.2.34"
