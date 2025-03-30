@@ -26,7 +26,7 @@
           "artifact": {
             "size": 212608,
             "MD5": "e8de93b1e25fcb60d847b2565d35369c",
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34.jar"
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34.jar"
           },
           "subModules": [
             {
@@ -36,7 +36,7 @@
               "artifact": {
                 "size": 13577,
                 "MD5": "9cc72898a14a7d162d6813443761d30a",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/versions/1.16.5-forge-36.2.34/1.16.5-forge-36.2.34.json"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/versions/1.16.5-forge-36.2.34/1.16.5-forge-36.2.34.json"
               }
             },
             {
@@ -47,7 +47,7 @@
               "artifact": {
                 "size": 2773337,
                 "MD5": "521b6d8bfa23e4e00da77f4a07f01f8f",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-universal.jar"
               },
               "subModules": []
             },
@@ -59,7 +59,7 @@
               "artifact": {
                 "size": 4214137,
                 "MD5": "8d8990d72f63d109f68fedf74182a3ea",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34-client.jar"
               },
               "subModules": []
             },
@@ -71,7 +71,7 @@
               "artifact": {
                 "size": 11352644,
                 "MD5": "eaa74d6fd3c11fd0d88429c68e7d7bff",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
             },
@@ -83,7 +83,7 @@
               "artifact": {
                 "size": 9118806,
                 "MD5": "df78297c0b6526e16f2bb7a685fd6b96",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-slim.jar"
               },
               "subModules": []
             },
@@ -95,7 +95,7 @@
               "artifact": {
                 "size": 8428369,
                 "MD5": "dbed747390f81e10cee40500b726431a",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-extra.jar"
               },
               "subModules": []
             },
@@ -106,7 +106,7 @@
               "artifact": {
                 "size": 121790,
                 "MD5": "54b9f5d15e4877a4ea4cf9ec48e07afa",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/org/ow2/asm/asm/9.1/asm-9.1.jar"
               }
             },
             {
@@ -116,7 +116,7 @@
               "artifact": {
                 "size": 72641,
                 "MD5": "81cc6b8f5ce8f2767d39fbd4b6c37a6a",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
               }
             },
             {
@@ -126,7 +126,7 @@
               "artifact": {
                 "size": 52662,
                 "MD5": "c2536add9ebcfa8066fcfb0dbe865879",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
               }
             },
             {
@@ -136,7 +136,7 @@
               "artifact": {
                 "size": 84679,
                 "MD5": "2f1a28f6b0f3e02b17d38a0f657a1527",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
               }
             },
             {
@@ -146,7 +146,7 @@
               "artifact": {
                 "size": 34257,
                 "MD5": "f0e82941173b6049c03e8214ace70ecd",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
               }
             },
             {
@@ -156,7 +156,7 @@
               "artifact": {
                 "size": 126747,
                 "MD5": "b6ba74224a6a68e6fb3e9cf3d72b9344",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar"
               }
             },
             {
@@ -166,7 +166,7 @@
               "artifact": {
                 "size": 2113,
                 "MD5": "d19b487241008d8e6111137a289ea1d7",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
               }
             },
             {
@@ -176,7 +176,7 @@
               "artifact": {
                 "size": 76586,
                 "MD5": "ada4c365c3d0de73c05a94010432b547",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
               }
             },
             {
@@ -186,7 +186,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -196,7 +196,7 @@
               "artifact": {
                 "size": 42873,
                 "MD5": "84c4758e6139b70146104be5bb1300b5",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
               }
             },
             {
@@ -206,7 +206,7 @@
               "artifact": {
                 "size": 20172,
                 "MD5": "8f1f6942d17d88d704324e8000666a1a",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
               }
             },
             {
@@ -216,7 +216,7 @@
               "artifact": {
                 "size": 25453,
                 "MD5": "e56551f2586d3ff08beb24f5ea44a7d3",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
               }
             },
             {
@@ -226,7 +226,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -236,7 +236,7 @@
               "artifact": {
                 "size": 199091,
                 "MD5": "093b0ca357d3f8b922170b8d7f43948c",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
               }
             },
             {
@@ -246,7 +246,7 @@
               "artifact": {
                 "size": 31288,
                 "MD5": "615b8e62371c536f876764591990118d",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
               }
             },
             {
@@ -256,7 +256,7 @@
               "artifact": {
                 "size": 732926,
                 "MD5": "ffd8c9d6eb8a8456ef505c8ef9fc777d",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/org/jline/jline/3.12.1/jline-3.12.1.jar"
               }
             },
             {
@@ -266,7 +266,7 @@
               "artifact": {
                 "size": 57824,
                 "MD5": "b83c1943a0783f3f81d4cd4c83c363e1",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
               }
             },
             {
@@ -276,7 +276,7 @@
               "artifact": {
                 "size": 15425,
                 "MD5": "ee4596e1413cc1a5e080c971d6064753",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
               }
             },
             {
@@ -286,7 +286,7 @@
               "artifact": {
                 "size": 301804,
                 "MD5": "a9ccfa7e3382dd2b9e0647a43d8286d7",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/org/apache/logging/log4j/log4j-api/2.15.0/log4j-api-2.15.0.jar"
               }
             },
             {
@@ -296,7 +296,7 @@
               "artifact": {
                 "size": 1789769,
                 "MD5": "81e0433ae00602c0e4d00424d213b0ab",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/org/apache/logging/log4j/log4j-core/2.15.0/log4j-core-2.15.0.jar"
               }
             },
             {
@@ -306,7 +306,7 @@
               "artifact": {
                 "size": 21223,
                 "MD5": "196442f1bdde4dbb0f576eed616e21b0",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/org/apache/logging/log4j/log4j-slf4j18-impl/2.15.0/log4j-slf4j18-impl-2.15.0.jar"
               }
             },
             {
@@ -316,7 +316,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -326,7 +326,7 @@
               "artifact": {
                 "size": 78146,
                 "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
               }
             },
             {
@@ -336,7 +336,7 @@
               "artifact": {
                 "size": 1069391,
                 "MD5": "25fbb8ff965e88cc2252c99be0cf5cbb",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
               }
             },
             {
@@ -346,7 +346,7 @@
               "artifact": {
                 "size": 2194057,
                 "MD5": "ae37ed8407982eefc9f85fdb1c95a3a0",
-                "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
+                "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/repo/lib/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
               }
             }
           ]
@@ -357,7 +357,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 975979,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/abnormals_core-1.16.5-3.3.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/abnormals_core-1.16.5-3.3.1.jar",
             "MD5": "0c91b63a7f5863a10c2f1dfd7bf604af"
           }
         },
@@ -367,7 +367,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 220776,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/aiotbotania-1.16.5-1.8.4.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/aiotbotania-1.16.5-1.8.4.jar",
             "MD5": "45f3aed64af5e3757879c22f5be07434"
           }
         },
@@ -377,7 +377,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 41258,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/AkashicTome-1.4-16.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/AkashicTome-1.4-16.jar",
             "MD5": "7dd864121d23cfb9775ac8286aaf88e1"
           }
         },
@@ -387,7 +387,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1555678,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/amb-1.16.4-0.1.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/amb-1.16.4-0.1.1.jar",
             "MD5": "8046d10226f037b060afa91dfaf05dd4"
           }
         },
@@ -397,7 +397,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1169760,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Apotheosis-1.16.5-4.8.9A0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Apotheosis-1.16.5-4.8.9A0.jar",
             "MD5": "960fa610f02c379b9a9653ac98b8412e"
           }
         },
@@ -407,7 +407,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47735,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/appleskin-forge-mc1.16.x-2.4.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/appleskin-forge-mc1.16.x-2.4.0.jar",
             "MD5": "ec6a10073c12f4e2ca787f3a808d9531"
           }
         },
@@ -417,7 +417,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 551038,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Aquaculture-1.16.5-2.1.23.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Aquaculture-1.16.5-2.1.23.jar",
             "MD5": "768c50bbeb2460e943806c1a0ca11a19"
           }
         },
@@ -427,7 +427,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 960448,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Architects-Palette-1.16.4-1.1.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Architects-Palette-1.16.4-1.1.5.jar",
             "MD5": "60eef22191de68b3441625d6e00e77b0"
           }
         },
@@ -437,7 +437,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 551890,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/architectury-1.32.66.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/architectury-1.32.66.jar",
             "MD5": "5035bb619d94ef535c0094702ebe4f31"
           }
         },
@@ -447,7 +447,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4749985,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ars_nouveau-1.16.5-1.25.9.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ars_nouveau-1.16.5-1.25.9.jar",
             "MD5": "01e391ec78b4fe32d6ad27a0df3516b2"
           }
         },
@@ -457,7 +457,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 30237317,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/astralsorcery-1.16.5-1.14.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/astralsorcery-1.16.5-1.14.1.jar",
             "MD5": "f600ddd554989d40bd6cdda83e64bd2e"
           }
         },
@@ -467,7 +467,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9569,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/AttributeFix-1.16.5-10.1.4.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/AttributeFix-1.16.5-10.1.4.jar",
             "MD5": "f9c09b68ba8cb59e72cc38997d687340"
           }
         },
@@ -477,7 +477,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 57279,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/AutoRegLib-1.6-49.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/AutoRegLib-1.6-49.jar",
             "MD5": "16302251afc7a757f00899b270cc0fa2"
           }
         },
@@ -487,7 +487,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7134,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/balancedenchanting-1.16.2-1.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/balancedenchanting-1.16.2-1.1.jar",
             "MD5": "ae3bfb9553dbeaef61eb454db79cf595"
           }
         },
@@ -497,7 +497,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 68275,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/bambooeverything-1.16.5-1.0.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/bambooeverything-1.16.5-1.0.1-forge.jar",
             "MD5": "7ab0b18add20500520cc8cae547770b5"
           }
         },
@@ -507,7 +507,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 66837,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/baubleyheartcanisters-1.16.5-1.1.11.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/baubleyheartcanisters-1.16.5-1.1.11.jar",
             "MD5": "84c543f790546d15ce5a78b5b8ff9743"
           }
         },
@@ -517,7 +517,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 374645,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Better-Badlands-1.16.5-2.0.3.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Better-Badlands-1.16.5-2.0.3.jar",
             "MD5": "8428d19954605a86ddcf57b9bedb26ca"
           }
         },
@@ -527,7 +527,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1402482,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/BetterCaves-Forge-1.16.4-1.1.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/BetterCaves-Forge-1.16.4-1.1.2.jar",
             "MD5": "2a4d2750e78156a6efcbb2ea932d4e6e"
           }
         },
@@ -537,7 +537,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 510439,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/BetterDungeons-1.16.4-1.2.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/BetterDungeons-1.16.4-1.2.1.jar",
             "MD5": "a51b4f9c3e0e9fbdb3be8751dd2fc24e"
           }
         },
@@ -547,7 +547,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 81199992,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/betterendforge-1.16.5-1.6.3.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/betterendforge-1.16.5-1.6.3.jar",
             "MD5": "3ba6c4744fb853b099e838b8e90adc15"
           }
         },
@@ -557,7 +557,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 289307,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/BetterMineshafts-Forge-1.16.4-2.0.4.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/BetterMineshafts-Forge-1.16.4-2.0.4.jar",
             "MD5": "94a88366c2e6846b32c5df0a5f044d07"
           }
         },
@@ -567,7 +567,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10017206,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/BloodMagic-1.16.4-3.1.13-39.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/BloodMagic-1.16.4-3.1.13-39.jar",
             "MD5": "0f276bdfc3a7950a58feb7a606e57fe4"
           }
         },
@@ -577,7 +577,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 308282,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/bones-1.16.5-2.1.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/bones-1.16.5-2.1.0.jar",
             "MD5": "1b3055ffd8232a3ee6a10c326b76e5d8"
           }
         },
@@ -587,7 +587,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 316238,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Bookshelf-Forge-1.16.5-10.4.32.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Bookshelf-Forge-1.16.5-10.4.32.jar",
             "MD5": "cdf592658b0b2aaff7e937d20e1e0b07"
           }
         },
@@ -597,7 +597,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15046675,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Botania-1.16.5-420.3.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Botania-1.16.5-420.3.jar",
             "MD5": "ae588b4b6d85ed1072bcf6598323c510"
           }
         },
@@ -607,7 +607,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 57594,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/BotaniaAdditionsMC1.16.4-1.0.4.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/BotaniaAdditionsMC1.16.4-1.0.4.jar",
             "MD5": "8a5f230d90bf897e57d304df4f0682db"
           }
         },
@@ -617,7 +617,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 554995,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/BotanyPots-1.16.5-7.1.39.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/BotanyPots-1.16.5-7.1.39.jar",
             "MD5": "df0ae74abf6acf14ff59f750cdf13020"
           }
         },
@@ -627,7 +627,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1612309,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/BrandonsCore-1.16.5-3.0.15.248-universal.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/BrandonsCore-1.16.5-3.0.15.248-universal.jar",
             "MD5": "384ed4e1ae71692d09e77f228689b7eb"
           }
         },
@@ -637,7 +637,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 293490,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/brazier-3.0.10-forge.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/brazier-3.0.10-forge.jar",
             "MD5": "486e9ee27b2e767964ca3e133aafbc7b"
           }
         },
@@ -647,7 +647,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 250275,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/brrp-forge-0.8.2-1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/brrp-forge-0.8.2-1.16.5.jar",
             "MD5": "378a636fd18fc24f0f29c6e6a0bbb0c3"
           }
         },
@@ -657,7 +657,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21870,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/BRVSB-1.0.4-mc1.16.4.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/BRVSB-1.0.4-mc1.16.4.jar",
             "MD5": "acfd9dadf9ae8542fd02920d99875573"
           }
         },
@@ -667,7 +667,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 912083,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/buildinggadgets-1.16.5-3.8.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/buildinggadgets-1.16.5-3.8.2.jar",
             "MD5": "a9dc9476e45c914832926dc881ca2f63"
           }
         },
@@ -677,7 +677,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 840640,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/buzzier_bees-1.16.5-3.0.3.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/buzzier_bees-1.16.5-3.0.3.jar",
             "MD5": "c4eba4b9020eb233131e81948a97410a"
           }
         },
@@ -687,7 +687,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10554,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/bwncr-1.16.5-3.10.16.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/bwncr-1.16.5-3.10.16.jar",
             "MD5": "03985b4b97cfca23c420734581331033"
           }
         },
@@ -697,7 +697,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10315242,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/byg-1.3.6.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/byg-1.3.6.jar",
             "MD5": "47af500ed23d3cacf5404bf984e44250"
           }
         },
@@ -707,7 +707,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 427749,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/cagedmobs-1.16.5-1.3.8.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/cagedmobs-1.16.5-1.3.8.jar",
             "MD5": "d4a92baf0ab9b8a276edd88c7ed573fb"
           }
         },
@@ -717,7 +717,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1963545,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/cc-tweaked-1.16.5-1.101.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/cc-tweaked-1.16.5-1.101.0.jar",
             "MD5": "05f844bdd0ec04f1cffa5b15d20d2f1e"
           }
         },
@@ -727,7 +727,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 207916,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/celestial_1.16.5_forge-2.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/celestial_1.16.5_forge-2.0.jar",
             "MD5": "bfe7531d9c4f507516767907365b6e07"
           }
         },
@@ -737,7 +737,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6169900,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/chipped-1.16.5-1.2.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/chipped-1.16.5-1.2.1-forge.jar",
             "MD5": "6ce55717e0a448300790a9aa8ee6177f"
           }
         },
@@ -747,7 +747,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7313725,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Chisel-MC1.16.5-2.0.1-alpha.4.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Chisel-MC1.16.5-2.0.1-alpha.4.jar",
             "MD5": "e552bddfb875ffab0f9d6e166e6bc34d"
           }
         },
@@ -757,7 +757,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 23054,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/chocolate-1.3.0-1.16.4.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/chocolate-1.3.0-1.16.4.jar",
             "MD5": "06af2b852f30d503cb7fc9c5b0bab44e"
           }
         },
@@ -767,7 +767,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 25635,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ChunkNoGoByeBye-1.16.5-1.3.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ChunkNoGoByeBye-1.16.5-1.3.0.jar",
             "MD5": "eab9a76bfa203acd58f648867223e356"
           }
         },
@@ -777,7 +777,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 482439,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/citadel-1.8.1-1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/citadel-1.8.1-1.16.5.jar",
             "MD5": "9ee0682eec5d343c6238e30c21c98e69"
           }
         },
@@ -787,7 +787,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 51337,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ClickMachine-1.16.5-4.5.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ClickMachine-1.16.5-4.5.0.jar",
             "MD5": "72ae85cba6b444ce4893e66a1871cf71"
           }
         },
@@ -797,7 +797,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 31203,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ClientTweaks_1.16.3-5.3.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ClientTweaks_1.16.3-5.3.0.jar",
             "MD5": "71c29c06afdc5bc264068c743867f273"
           }
         },
@@ -807,7 +807,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1441438,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/cloth-config-4.16.91-forge.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/cloth-config-4.16.91-forge.jar",
             "MD5": "3d099c99dfe94f89280815d302d1ea94"
           }
         },
@@ -817,7 +817,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 18397,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Clumps-6.0.0.28.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Clumps-6.0.0.28.jar",
             "MD5": "0fdfe776ae513bd8a4c7396097ce42e9"
           }
         },
@@ -827,7 +827,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 173625,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/cobbler-1.6.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/cobbler-1.6.1.jar",
             "MD5": "39302c89616b8417046ed9fa3eae46fd"
           }
         },
@@ -837,7 +837,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 636499,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/CodeChickenLib-1.16.5-4.0.7.445-universal.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/CodeChickenLib-1.16.5-4.0.7.445-universal.jar",
             "MD5": "0bbfca50118662336bb64592581005eb"
           }
         },
@@ -847,7 +847,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1443038,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/cofh_core-1.16.5-1.5.2.22.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/cofh_core-1.16.5-1.5.2.22.jar",
             "MD5": "975c14d7c4237d845bff570cbc3b495d"
           }
         },
@@ -857,7 +857,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 227056,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/comforts-forge-1.16.5-4.0.1.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/comforts-forge-1.16.5-4.0.1.5.jar",
             "MD5": "5dd2c69fc508b4ee5a00a153d3161d11"
           }
         },
@@ -867,7 +867,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 233490,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/CommonCapabilities-1.16.5-2.8.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/CommonCapabilities-1.16.5-2.8.0.jar",
             "MD5": "f24e6a5517a1170ff92aa73651c35023"
           }
         },
@@ -877,7 +877,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3135946,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/compactcrafting-1.0.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/compactcrafting-1.0.0.jar",
             "MD5": "8063e6f720301489cd67d5d2279eb628"
           }
         },
@@ -887,7 +887,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 345749,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/compactmachines-4.0.0-beta.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/compactmachines-4.0.0-beta.2.jar",
             "MD5": "32c2f09492e2c2d5ac53a5c7a0a2abaa"
           }
         },
@@ -897,7 +897,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 460391,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Compressium-1.16.5-1.2.3.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Compressium-1.16.5-1.2.3.jar",
             "MD5": "1b9a84f7e95bc8e4b45b62179a746f72"
           }
         },
@@ -907,7 +907,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 131486,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/configured-1.5.3-1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/configured-1.5.3-1.16.5.jar",
             "MD5": "589207a36d5bf2060df2425390b70245"
           }
         },
@@ -917,7 +917,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 629461,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/connectedglass-1.1.4-forge-mc1.16.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/connectedglass-1.1.4-forge-mc1.16.jar",
             "MD5": "05b6839bfcc5d0aa2e9cc2608c73ccb8"
           }
         },
@@ -927,7 +927,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 198793,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/constructionwand-1.16.5-2.6.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/constructionwand-1.16.5-2.6.jar",
             "MD5": "520b538e6da0b6aeb2c5cf5d154f2492"
           }
         },
@@ -937,7 +937,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 55307,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Controlling-7.0.0.28.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Controlling-7.0.0.28.jar",
             "MD5": "e7f729432d2236d3fccac400ffb1dd5c"
           }
         },
@@ -947,7 +947,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 683179,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/CookingForBlockheads_1.16.5-9.3.4.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/CookingForBlockheads_1.16.5-9.3.4.jar",
             "MD5": "348fb1a64b8e9155ac44b0d729309ecf"
           }
         },
@@ -957,7 +957,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 203988,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/corpse-1.16.5-1.0.6.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/corpse-1.16.5-1.0.6.jar",
             "MD5": "8cbd023ad32c855215ad5cba5325cb3f"
           }
         },
@@ -967,7 +967,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 87717,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/CosmeticArmorReworked-1.16.5-v5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/CosmeticArmorReworked-1.16.5-v5.jar",
             "MD5": "7702be69fb48e63423409112d5e6aaea"
           }
         },
@@ -977,7 +977,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 111189,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/CraftingTweaks_1.16.5-12.2.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/CraftingTweaks_1.16.5-12.2.1.jar",
             "MD5": "8569d337eb97f93c664f5e325adaf535"
           }
         },
@@ -987,7 +987,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2088969,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/crashutilities-3.13.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/crashutilities-3.13.jar",
             "MD5": "1d42bed0db1ae11b414eb2776193282b"
           }
         },
@@ -997,7 +997,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11564279,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/create-mc1.16.5_v0.3.2g.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/create-mc1.16.5_v0.3.2g.jar",
             "MD5": "84ec13d5bccfa71a09783ecb6e089b20"
           }
         },
@@ -1007,7 +1007,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 834203,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/createaddition-1.16.5-20220129a.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/createaddition-1.16.5-20220129a.jar",
             "MD5": "250fd90a842bb6c1071c58f09ff2febf"
           }
         },
@@ -1017,7 +1017,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 668434,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/creategearaddon-v2.0.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/creategearaddon-v2.0.1.jar",
             "MD5": "4a13eadd74293be41966d6b688c136fb"
           }
         },
@@ -1027,7 +1027,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 62185,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/creategears-1.16.5-1.3.3.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/creategears-1.16.5-1.3.3.jar",
             "MD5": "76e251273d7a06edd75ee3d1e34e962c"
           }
         },
@@ -1037,7 +1037,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 147424,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/creativeapiary-1.16.5-1.72.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/creativeapiary-1.16.5-1.72.jar",
             "MD5": "2cc7ffb9180f871d09ec8063c8526437"
           }
         },
@@ -1047,7 +1047,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 631207,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/CreativeCore_v2.2.1_mc1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/CreativeCore_v2.2.1_mc1.16.5.jar",
             "MD5": "c32d3e1df267d820eb2b1b8e8adb75e1"
           }
         },
@@ -1057,7 +1057,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 167928,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ctiers-1.16.5-1.4.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ctiers-1.16.5-1.4.jar",
             "MD5": "3aa104531e9a265470e392e3511281f9"
           }
         },
@@ -1067,7 +1067,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 186068,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/CTM-MC1.16.1-1.1.2.6.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/CTM-MC1.16.1-1.1.2.6.jar",
             "MD5": "758f81bde7ee49b21b8ed2c0e1ef3567"
           }
         },
@@ -1077,7 +1077,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 158447,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Cucumber-1.16.5-4.1.12.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Cucumber-1.16.5-4.1.12.jar",
             "MD5": "1b1e07613fc0b36cb6194a6bd60a4672"
           }
         },
@@ -1087,7 +1087,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 142006,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/culinaryconstruct-forge-1.16.5-4.0.1.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/culinaryconstruct-forge-1.16.5-4.0.1.0.jar",
             "MD5": "ca121ce3072235c1b4c9e39e827ddf0c"
           }
         },
@@ -1097,7 +1097,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 246281,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/curios-forge-1.16.5-4.0.5.3.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/curios-forge-1.16.5-4.0.5.3.jar",
             "MD5": "15ff549e39f809bed3a751cf768fb72f"
           }
         },
@@ -1107,7 +1107,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3833631,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Cyclic-1.16.5-1.5.20.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Cyclic-1.16.5-1.5.20.jar",
             "MD5": "733f9cb92d8fb256b1912570a572ec76"
           }
         },
@@ -1117,7 +1117,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 855134,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/CyclopsCore-1.16.5-1.13.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/CyclopsCore-1.16.5-1.13.0.jar",
             "MD5": "bc46d892ae97ffd2ae4ba5fc039d8c07"
           }
         },
@@ -1127,7 +1127,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 154770,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/dankstorage-1.16.5-3.21.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/dankstorage-1.16.5-3.21.jar",
             "MD5": "dc7665ec8d2fc1a6e9e3c3aef667c67f"
           }
         },
@@ -1137,7 +1137,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 255519,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/DarkUtilities-1.16.5-8.0.14.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/DarkUtilities-1.16.5-8.0.14.jar",
             "MD5": "27136406e2c302e151a75d036c04d24d"
           }
         },
@@ -1147,7 +1147,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 351053,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/decorative_blocks_abnormals-1.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/decorative_blocks_abnormals-1.2.jar",
             "MD5": "c6255f857cdbd50a0d3e8272ff6b32c4"
           }
         },
@@ -1157,7 +1157,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 576443,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/decorative_blocks-1.16.4-1.7.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/decorative_blocks-1.16.4-1.7.2.jar",
             "MD5": "1b6222ecb3d24ef21b840ef0e5d98702"
           }
         },
@@ -1167,7 +1167,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 18700,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/DefaultOptions_1.16.5-12.2.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/DefaultOptions_1.16.5-12.2.1.jar",
             "MD5": "ad94bd7dd0fa89f21b64ef03f701e0ef"
           }
         },
@@ -1177,7 +1177,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 158108,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/DiaboloLib-1.0.7.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/DiaboloLib-1.0.7.jar",
             "MD5": "625eb95f2119a1378078e302b829211a"
           }
         },
@@ -1187,7 +1187,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1794897,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/dimdungeons-1.13.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/dimdungeons-1.13.1.jar",
             "MD5": "ed1c7f342f8241e566dd13fee5da1bdd"
           }
         },
@@ -1197,7 +1197,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10483,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Ding-1.16.5-1.3.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Ding-1.16.5-1.3.0.jar",
             "MD5": "e892a46e806a6fcf945bfe4999665b53"
           }
         },
@@ -1207,7 +1207,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5530253,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Draconic-Evolution-1.16.5-3.0.28.500-universal.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Draconic-Evolution-1.16.5-3.0.28.500-universal.jar",
             "MD5": "a05e22a7ea4f8528594ea84e6fede4a8"
           }
         },
@@ -1217,7 +1217,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 79634,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/dropthemeat-1.16.3-1.3.3.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/dropthemeat-1.16.3-1.3.3.jar",
             "MD5": "67a459496965c46a88fe3e136a72a364"
           }
         },
@@ -1227,7 +1227,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 770534,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/DungeonCrawl-1.16.5-2.3.9.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/DungeonCrawl-1.16.5-2.3.9.jar",
             "MD5": "ba35567be89292332fc89b851f9b4576"
           }
         },
@@ -1237,7 +1237,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 389176,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/dungeons_plus-1.16.5-1.1.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/dungeons_plus-1.16.5-1.1.5.jar",
             "MD5": "dd52b9c5904a9c5e5b22826d49c504db"
           }
         },
@@ -1247,7 +1247,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 414658,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/DustrialDecor-1.3.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/DustrialDecor-1.3.1.jar",
             "MD5": "0403adcbd79049500e0b8a4cb98112fb"
           }
         },
@@ -1257,7 +1257,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 244837,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/earthmobsmod-1.16.4-0.4.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/earthmobsmod-1.16.4-0.4.2.jar",
             "MD5": "0e113a3022206245a4de8baafb2fab86"
           }
         },
@@ -1267,7 +1267,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2040762,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/eidolon-0.2.7.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/eidolon-0.2.7.jar",
             "MD5": "ce36e9b8a7db126dd8d448c66ce8ab9e"
           }
         },
@@ -1277,7 +1277,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 183750,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/elevatorid-1.16.5-1.7.13.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/elevatorid-1.16.5-1.7.13.jar",
             "MD5": "0eb349656093c5c3cd260ec5aa425193"
           }
         },
@@ -1287,7 +1287,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5367938,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/embellishcraft-1.16.5-3.4.0.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/embellishcraft-1.16.5-3.4.0.0.jar",
             "MD5": "89936cbddbb45e9827d6c82ae4e76054"
           }
         },
@@ -1297,7 +1297,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 32254,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/enchantedbookredesign-3.3-1.16.4.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/enchantedbookredesign-3.3-1.16.4.jar",
             "MD5": "b80076893878b815eeb874b036d3b0f6"
           }
         },
@@ -1307,7 +1307,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 59296,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/EnchantmentDescriptions-1.16.5-7.1.20.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/EnchantmentDescriptions-1.16.5-7.1.20.jar",
             "MD5": "ef42a46d519c1009ae6ef581541a3592"
           }
         },
@@ -1317,7 +1317,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11036888,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/endergetic-1.16.5-3.0.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/endergetic-1.16.5-3.0.2.jar",
             "MD5": "11218a33c814ceb6d9807eec31b15604"
           }
         },
@@ -1327,7 +1327,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 214789,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/EnderStorage-1.16.5-2.8.0.170-universal.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/EnderStorage-1.16.5-2.8.0.170-universal.jar",
             "MD5": "f89cdf79e361f201da15dbdfb3d95cb3"
           }
         },
@@ -1337,7 +1337,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1824369,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/engineersdecor-1.16.5-forge-1.1.19.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/engineersdecor-1.16.5-forge-1.1.19.jar",
             "MD5": "4645d3c26a31d16e5cce6234b1b28ffe"
           }
         },
@@ -1347,7 +1347,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1516976,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/EnigmaticLegacy-2.11.12.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/EnigmaticLegacy-2.11.12.jar",
             "MD5": "34ea7696c7571f81335e0bffb1939204"
           }
         },
@@ -1357,7 +1357,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 99655,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/entangled-1.3.11-forge-mc1.16.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/entangled-1.3.11-forge-mc1.16.jar",
             "MD5": "2884345be61fa227a7e8107baa39c3d3"
           }
         },
@@ -1367,7 +1367,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 46532,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/entityculling-forge-mc1.16.5-1.5.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/entityculling-forge-mc1.16.5-1.5.2.jar",
             "MD5": "8696ac24f0d209aadaf754bed9c2e1f6"
           }
         },
@@ -1377,7 +1377,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1223273,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/envirocore-1.16.5-3.0.9.3.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/envirocore-1.16.5-3.0.9.3.jar",
             "MD5": "8fe905edc50e608617bbaad2e3be56db"
           }
         },
@@ -1387,7 +1387,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 162375,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/enviroenergy-1.16.5-3.0.9.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/enviroenergy-1.16.5-3.0.9.1.jar",
             "MD5": "be334b4ecf60a9926a4e546201b9d738"
           }
         },
@@ -1397,7 +1397,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 237542,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/envirotech-1.16.5-3.0.9.4.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/envirotech-1.16.5-3.0.9.4.jar",
             "MD5": "f6c1151609cb34347ba6ac75f60ad562"
           }
         },
@@ -1407,7 +1407,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 188327,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/EverlastingAbilities-1.16.5-1.8.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/EverlastingAbilities-1.16.5-1.8.0.jar",
             "MD5": "39e5a4dfd087e01bfdb86e3630c0e3a2"
           }
         },
@@ -1417,7 +1417,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 537644,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ExtendedCrafting-1.16.5-3.1.12.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ExtendedCrafting-1.16.5-3.1.12.jar",
             "MD5": "68ed43caf4696df2550bc9a428110025"
           }
         },
@@ -1427,7 +1427,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1011889,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/extendedmushrooms-1.16.5-1.7.0.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/extendedmushrooms-1.16.5-1.7.0.5.jar",
             "MD5": "a2098e1063d513097ed18881a84c12bc"
           }
         },
@@ -1437,7 +1437,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 244548,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/extradisks-1.16.4-1.5.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/extradisks-1.16.4-1.5.1.jar",
             "MD5": "3409325857610e8cdc7ce70b17b6d71c"
           }
         },
@@ -1447,7 +1447,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 344904,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ExtraStorage-1.16.5-1.6.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ExtraStorage-1.16.5-1.6.1.jar",
             "MD5": "2897231039ee0af6767e9dab3fd5f709"
           }
         },
@@ -1457,7 +1457,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2330782,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ExtremeReactors2-1.16.5-2.0.55.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ExtremeReactors2-1.16.5-2.0.55.jar",
             "MD5": "38ec0cfe3fb52ed4033fcf5358d59a66"
           }
         },
@@ -1467,7 +1467,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 284543,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/extremeSoundMuffler-3.18_1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/extremeSoundMuffler-3.18_1.16.5.jar",
             "MD5": "18a8072e6b3fe476560717217eae9f18"
           }
         },
@@ -1477,7 +1477,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5428670,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/farlanders-1.16.4-1.3.9.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/farlanders-1.16.4-1.3.9.jar",
             "MD5": "6a6003aa8ec46e3d0fef0f50a23ea269"
           }
         },
@@ -1487,7 +1487,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 281958,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/FarmingForBlockheads_1.16.5-7.3.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/FarmingForBlockheads_1.16.5-7.3.1.jar",
             "MD5": "1c3079b47cf1a4cd36c336a3682c451a"
           }
         },
@@ -1497,7 +1497,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 24684,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/fastboot-1.16.x-1.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/fastboot-1.16.x-1.1.jar",
             "MD5": "c5913315f5af9b9b43c052fa0e11521b"
           }
         },
@@ -1507,7 +1507,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5907,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/FastFurnace-1.16.5-4.5.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/FastFurnace-1.16.5-4.5.0.jar",
             "MD5": "2474fd55475a370f97f162552db9a669"
           }
         },
@@ -1517,7 +1517,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8630,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/FastLeafDecay-v25.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/FastLeafDecay-v25.2.jar",
             "MD5": "0d5806c3a73cf519264877db959823f3"
           }
         },
@@ -1527,7 +1527,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 22470,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/FastWorkbench-1.16.5-4.6.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/FastWorkbench-1.16.5-4.6.2.jar",
             "MD5": "a7e5518d5f03953d1d47aa52126b9071"
           }
         },
@@ -1537,7 +1537,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 108557,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ferritecore-2.1.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ferritecore-2.1.1-forge.jar",
             "MD5": "6a96a36de00e5d8e9bf2e87634d13125"
           }
         },
@@ -1547,7 +1547,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1042608,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/floormats-1.16.5-v1.5.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/floormats-1.16.5-v1.5.1.jar",
             "MD5": "7e3d0bd0f8fa677f6bc370cc52b489d3"
           }
         },
@@ -1557,7 +1557,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 468128,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/FluxNetworks-1.16.5-6.2.1.14.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/FluxNetworks-1.16.5-6.2.1.14.jar",
             "MD5": "966c1e375dbcbb23952afb37893295df"
           }
         },
@@ -1567,7 +1567,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 420923,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/flywheel-1.16-0.2.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/flywheel-1.16-0.2.5.jar",
             "MD5": "0964200fddbd4ff67dfab63c5aae161a"
           }
         },
@@ -1577,7 +1577,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2270002,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/forbidden_arcanus-16.2.3.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/forbidden_arcanus-16.2.3.jar",
             "MD5": "c11e757ea774d3ff358fb176ec07fea0"
           }
         },
@@ -1587,7 +1587,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 442431,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ForgedAPIFork-1.0.0+1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ForgedAPIFork-1.0.0+1.16.5.jar",
             "MD5": "ceaaa537130386b9dde694d9a74b10c7"
           }
         },
@@ -1597,7 +1597,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 837954,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/FramedBlocks-2.16.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/FramedBlocks-2.16.1.jar",
             "MD5": "6839cdf2018b770ca3a76e772f46b456"
           }
         },
@@ -1607,7 +1607,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 116808,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/framedcompactdrawers-1.16-2.2.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/framedcompactdrawers-1.16-2.2.1.jar",
             "MD5": "69e0f2d897840a11216874f036b7bf45"
           }
         },
@@ -1617,7 +1617,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 44027,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ftb-backups-2.1.2.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ftb-backups-2.1.2.2.jar",
             "MD5": "4bf6828a6501cf79eddfd133de68c38f"
           }
         },
@@ -1627,7 +1627,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 740701,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ftb-chunks-forge-1605.3.3-build.200.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ftb-chunks-forge-1605.3.3-build.200.jar",
             "MD5": "ccc74bf2f97e266f697446549275b4eb"
           }
         },
@@ -1637,7 +1637,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 585125,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ftb-library-forge-1605.3.4-build.90.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ftb-library-forge-1605.3.4-build.90.jar",
             "MD5": "88b4c3497d1aa260481bd74e464a3d70"
           }
         },
@@ -1647,7 +1647,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 943662,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ftb-quests-forge-1605.3.6-build.98.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ftb-quests-forge-1605.3.6-build.98.jar",
             "MD5": "953d46de644a07e88c11a9afbd9f577e"
           }
         },
@@ -1657,7 +1657,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 171679,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ftb-teams-forge-1605.2.3-build.40.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ftb-teams-forge-1605.2.3-build.40.jar",
             "MD5": "08d807589127eac26626d36ac36d1b21"
           }
         },
@@ -1667,7 +1667,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 96334,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/GameMenuModOption-1.16.4-1.8.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/GameMenuModOption-1.16.4-1.8.2.jar",
             "MD5": "511765f89c4480bb431ecb5505d0c88a"
           }
         },
@@ -1677,7 +1677,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3559283,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/geckolib-forge-1.16.5-3.0.106.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/geckolib-forge-1.16.5-3.0.106.jar",
             "MD5": "6f4524eea52474c58280c2b0ac06e1e0"
           }
         },
@@ -1687,7 +1687,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 179076,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/GildedIngot-1.8.9.1-1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/GildedIngot-1.8.9.1-1.16.5.jar",
             "MD5": "ec33e570f56eba16d3b8b423a4b89b47"
           }
         },
@@ -1697,7 +1697,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 45602,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/glassential-forge-1.16.5-1.1.7.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/glassential-forge-1.16.5-1.1.7.jar",
             "MD5": "c683218da299a277995d0faf6944c137"
           }
         },
@@ -1707,7 +1707,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 561944,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Gobber2-Forge-1.16.5-2.3.55.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Gobber2-Forge-1.16.5-2.3.55.jar",
             "MD5": "dafc087b613431ca7aa3fd399584c152"
           }
         },
@@ -1717,7 +1717,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 428711,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/goblintraders-1.7.3-1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/goblintraders-1.7.3-1.16.5.jar",
             "MD5": "2161b97a4ff7c0ca199307be05839d83"
           }
         },
@@ -1727,7 +1727,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 140278,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/goldenhopper-1.2.1-1.16.3.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/goldenhopper-1.2.1-1.16.3.jar",
             "MD5": "6c031c78a96b928aa4e944f43e6a866a"
           }
         },
@@ -1737,7 +1737,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 650326,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/HammerLib-1.16.5-16.3.30.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/HammerLib-1.16.5-16.3.30.jar",
             "MD5": "14826c3af976e70440f494037ecf3243"
           }
         },
@@ -1747,7 +1747,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1532129,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Hats-1.16.5-10.3.3.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Hats-1.16.5-10.3.3.jar",
             "MD5": "bb53e90593c1a82213466ceaec5463c1"
           }
         },
@@ -1757,7 +1757,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 31168,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/HealthOverlay-1.16.5-3.0.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/HealthOverlay-1.16.5-3.0.1.jar",
             "MD5": "3bf8bcc3b5998ec1a28401cfa9141cce"
           }
         },
@@ -1767,7 +1767,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21373454,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/iceandfire-2.1.11-1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/iceandfire-2.1.11-1.16.5.jar",
             "MD5": "0bd669412aa79d6c4f2e38112d7cc6da"
           }
         },
@@ -1777,7 +1777,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 597406,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/iChunUtil-1.16.5-10.6.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/iChunUtil-1.16.5-10.6.1.jar",
             "MD5": "6bd36e6b720fa2a363efb3d732500184"
           }
         },
@@ -1787,7 +1787,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9414280,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ImmersiveEngineering-1.16.5-5.1.0-148.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ImmersiveEngineering-1.16.5-5.1.0-148.jar",
             "MD5": "834eb9edbfc3136ab5b14983fef05275"
           }
         },
@@ -1797,7 +1797,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1532684,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ImmersivePetroleum-1.16.5-3.4.0-13.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ImmersivePetroleum-1.16.5-3.4.0-13.jar",
             "MD5": "cb1090c4f4f1eb116842d976296b724b"
           }
         },
@@ -1807,7 +1807,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 207610,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/incontrol-1.16-5.2.12.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/incontrol-1.16-5.2.12.jar",
             "MD5": "4141009feab63da5401b7c4b67aa220a"
           }
         },
@@ -1817,7 +1817,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3582355,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/industrial-foregoing-1.16.5-3.2.14.6-14.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/industrial-foregoing-1.16.5-3.2.14.6-14.jar",
             "MD5": "2c4cf2b7dd85ab95a4268f5771564282"
           }
         },
@@ -1827,7 +1827,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 267413,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/IntegratedCrafting-1.16.5-1.0.23.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/IntegratedCrafting-1.16.5-1.0.23.jar",
             "MD5": "6d02dcfd9f0fd35274388707314bb4e0"
           }
         },
@@ -1837,7 +1837,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3171959,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/IntegratedDynamics-1.16.5-1.10.15.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/IntegratedDynamics-1.16.5-1.10.15.jar",
             "MD5": "8cf753f72bd2de38676b5d3b87f4d05c"
           }
         },
@@ -1847,7 +1847,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 136751,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/integratednbt-1.16.4-1.4.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/integratednbt-1.16.4-1.4.2.jar",
             "MD5": "ac635298f6c85b6183d9e9d31876409e"
           }
         },
@@ -1857,7 +1857,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 478082,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/IntegratedTerminals-1.16.5-1.2.13.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/IntegratedTerminals-1.16.5-1.2.13.jar",
             "MD5": "c14d476585778ec952ff1d213c9ff5d3"
           }
         },
@@ -1867,7 +1867,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 592103,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/IntegratedTunnels-1.16.5-1.8.11.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/IntegratedTunnels-1.16.5-1.8.11.jar",
             "MD5": "639340903ca65ae84f68d92f4bcfba19"
           }
         },
@@ -1877,7 +1877,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 69906,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/invtweaks-1.16.4-1.0.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/invtweaks-1.16.4-1.0.1.jar",
             "MD5": "a54b1b1241d4643abefc1d42c6e95feb"
           }
         },
@@ -1887,7 +1887,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 258298,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ironchest-1.16.5-11.2.21.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ironchest-1.16.5-11.2.21.jar",
             "MD5": "ad813ff46d3c9ba127e1033bfe957758"
           }
         },
@@ -1897,7 +1897,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 493742,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ironfurnaces-1.16.5-2.7.7.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ironfurnaces-1.16.5-2.7.7.jar",
             "MD5": "14d38f66b4b514aa7b03264c13599489"
           }
         },
@@ -1907,7 +1907,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 106801,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/item-filters-forge-1605.2.5-build.9.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/item-filters-forge-1605.2.5-build.9.jar",
             "MD5": "6e81a16049d7f2a6996cd1b0e97a3b03"
           }
         },
@@ -1917,7 +1917,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 89356,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/itemcollectors-1.1.5-mc1.16.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/itemcollectors-1.1.5-mc1.16.jar",
             "MD5": "6dd819d2fb68063800e769023281f401"
           }
         },
@@ -1927,7 +1927,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 29036,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/JAMD-1.2.4-build.17+mc1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/JAMD-1.2.4-build.17+mc1.16.5.jar",
             "MD5": "d92c9065ee251a58421d7ca04d797065"
           }
         },
@@ -1937,7 +1937,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 423979,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Janoeo-5.6.0.68.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Janoeo-5.6.0.68.jar",
             "MD5": "e999cf959b5942789a7d9b005a67a00f"
           }
         },
@@ -1947,7 +1947,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 30608,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/JAVD-2.6.1-build.48+mc1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/JAVD-2.6.1-build.48+mc1.16.5.jar",
             "MD5": "e6a6a2c6a2ba5020d1cfca3d0d774bf3"
           }
         },
@@ -1957,7 +1957,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 828671,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/jei-1.16.5-7.7.1.153.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/jei-1.16.5-7.7.1.153.jar",
             "MD5": "c632d0ad38292ad77d1624aa6c97fdac"
           }
         },
@@ -1967,7 +1967,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 24981,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/jeiintegration_1.16.5-7.1.0.22.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/jeiintegration_1.16.5-7.1.0.22.jar",
             "MD5": "feba24dc97d336a45a3fad17ea7b55c1"
           }
         },
@@ -1977,7 +1977,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21207734,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Jellyfishing-1.6.13.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Jellyfishing-1.6.13.jar",
             "MD5": "9f783f6fbad9b0ff19c1c04f00a3d4b9"
           }
         },
@@ -1987,7 +1987,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6693593,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/journeymap-1.16.5-5.8.5p6.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/journeymap-1.16.5-5.8.5p6.jar",
             "MD5": "398f1e0c23efec7b5ed317ba0e80a7c7"
           }
         },
@@ -1997,7 +1997,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 235560,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/JustEnoughResources-1.16.5-0.12.1.133.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/JustEnoughResources-1.16.5-0.12.1.133.jar",
             "MD5": "0e99c6468e6a0cbc768499857e4f41ca"
           }
         },
@@ -2007,7 +2007,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2110314,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/kryptonreforged-mc1.16.5_v1.0.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/kryptonreforged-mc1.16.5_v1.0.0.jar",
             "MD5": "1e661faa2cc3be3040fb3024b93ab195"
           }
         },
@@ -2017,7 +2017,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 919043,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/kubejs-forge-1605.3.19-build.299.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/kubejs-forge-1605.3.19-build.299.jar",
             "MD5": "6996918f81b312c31e7d6ba47c2cd4f3"
           }
         },
@@ -2027,7 +2027,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 19764,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/lavasponge-1.0.3-1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/lavasponge-1.0.3-1.16.5.jar",
             "MD5": "ce04e2346a173fbf3162227268ee7ca3"
           }
         },
@@ -2037,7 +2037,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 373391,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/LibX-1.16.3-1.0.76.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/LibX-1.16.3-1.0.76.jar",
             "MD5": "76862af5ee0b6d18df35b782835cd5a9"
           }
         },
@@ -2047,7 +2047,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 49997,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/lightspeed-1.16.5-1.0.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/lightspeed-1.16.5-1.0.5.jar",
             "MD5": "d49c88b98dfbe4add2bae2e12fc22b05"
           }
         },
@@ -2057,7 +2057,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 683534,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Lollipop-1.16.5-3.2.9.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Lollipop-1.16.5-3.2.9.jar",
             "MD5": "05125a6755be8b753a454ac3233ef06a"
           }
         },
@@ -2067,7 +2067,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 374074,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/lootr-1.16.5-0.2.19.51.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/lootr-1.16.5-0.2.19.51.jar",
             "MD5": "ed56bc3ebe2e739d5f6458f6df635328"
           }
         },
@@ -2077,7 +2077,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 844992,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/lostcities-1.16-4.0.12-beta.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/lostcities-1.16-4.0.12-beta.jar",
             "MD5": "aacc98228cfd5ae906b4ae39d817d81d"
           }
         },
@@ -2087,7 +2087,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3902078,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/mahoutsukai-1.16.5-v1.34.36.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/mahoutsukai-1.16.5-v1.34.36.jar",
             "MD5": "9b8cbd021acce6f558c14d2b154f11a8"
           }
         },
@@ -2097,7 +2097,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 806737,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Mantle-1.16.5-1.6.157.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Mantle-1.16.5-1.6.157.jar",
             "MD5": "e5ee7cb043a90615d0fdacffbc1f6790"
           }
         },
@@ -2107,7 +2107,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 222545,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/mapperbase-1.16.5-2.4.0.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/mapperbase-1.16.5-2.4.0.0.jar",
             "MD5": "1b727e33ef0abe0b2559b267eef9cefe"
           }
         },
@@ -2117,7 +2117,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 679104,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/MasterfulMachinery-1.16.5-0.1.68-B1105.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/MasterfulMachinery-1.16.5-0.1.68-B1105.jar",
             "MD5": "9453f1c7c7dfe9b5ea47a217817fea17"
           }
         },
@@ -2127,7 +2127,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 36770,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/matc-1.1.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/matc-1.1.2.jar",
             "MD5": "81a52bdab7fd57520357ee15fb78edf9"
           }
         },
@@ -2137,7 +2137,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4445642,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/materialis-1.16.5-2.5.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/materialis-1.16.5-2.5.1.jar",
             "MD5": "73c0fef3429af0e9ea93941452de5dad"
           }
         },
@@ -2147,7 +2147,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 648426,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/mcjtylib-1.16-5.1.8.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/mcjtylib-1.16-5.1.8.jar",
             "MD5": "91de3fb7d6a8f7c032963d28325571d0"
           }
         },
@@ -2157,7 +2157,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 535857,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/mcw-bridges-2.0.6-mc1.16.5forge.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/mcw-bridges-2.0.6-mc1.16.5forge.jar",
             "MD5": "51e861a2b4df1fd8cc6df57e468d675f"
           }
         },
@@ -2167,7 +2167,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 798317,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/mcw-doors-1.0.7-mc1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/mcw-doors-1.0.7-mc1.16.5.jar",
             "MD5": "38d38ab4a9fc339be3ec17bca645c953"
           }
         },
@@ -2177,7 +2177,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 294223,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/mcw-fences-1.0.7-mc1.16.5forge.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/mcw-fences-1.0.7-mc1.16.5forge.jar",
             "MD5": "fddb089b091b67d4b9e23f9741988a1c"
           }
         },
@@ -2187,7 +2187,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1451443,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/mcw-furniture-3.0.2-mc1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/mcw-furniture-3.0.2-mc1.16.5.jar",
             "MD5": "e3f51ef83e6acafbafc6296427d647e9"
           }
         },
@@ -2197,7 +2197,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1565160,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/mcw-roofs-2.2.2-mc1.16.5forge.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/mcw-roofs-2.2.2-mc1.16.5forge.jar",
             "MD5": "74a5ef0d5e1d3fe19cd89c036ac35660"
           }
         },
@@ -2207,7 +2207,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 489080,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/mcw-trapdoors-1.0.8-mc1.16.5forge.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/mcw-trapdoors-1.0.8-mc1.16.5forge.jar",
             "MD5": "2292974667adfc3c040200dad54161fc"
           }
         },
@@ -2217,7 +2217,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 776145,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/mcw-windows-2.1.1-mc1.16.5forge.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/mcw-windows-2.1.1-mc1.16.5forge.jar",
             "MD5": "72a964e169bf206fadcc6cc79ab0663d"
           }
         },
@@ -2227,7 +2227,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11181433,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Mekanism-1.16.5-10.1.2.457.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Mekanism-1.16.5-10.1.2.457.jar",
             "MD5": "bcfbd6b2d63020cdbf42b9c2d643b956"
           }
         },
@@ -2237,7 +2237,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1078058,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/MekanismAdditions-1.16.5-10.1.2.457.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/MekanismAdditions-1.16.5-10.1.2.457.jar",
             "MD5": "694caa7a64411e7dcd85be4d40689ec1"
           }
         },
@@ -2247,7 +2247,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 985334,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/MekanismGenerators-1.16.5-10.1.2.457.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/MekanismGenerators-1.16.5-10.1.2.457.jar",
             "MD5": "8e0854f544510952dda70eb3c840638e"
           }
         },
@@ -2257,7 +2257,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 368033,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/MekanismTools-1.16.5-10.1.2.457.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/MekanismTools-1.16.5-10.1.2.457.jar",
             "MD5": "7742cf452e949b171884457cedabdce1"
           }
         },
@@ -2267,7 +2267,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 225324,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/memoryleakfix-forge-pre1.17-1.1.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/memoryleakfix-forge-pre1.17-1.1.5.jar",
             "MD5": "fe7c6324891ef8f6d00ebc23f6d185a2"
           }
         },
@@ -2277,7 +2277,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 146670,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/metalbarrels-1.16.5-3.4a.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/metalbarrels-1.16.5-3.4a.jar",
             "MD5": "df3b16d2425db378dc71b705f8478f9b"
           }
         },
@@ -2287,7 +2287,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 610022,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/mininggadgets-1.7.6.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/mininggadgets-1.7.6.jar",
             "MD5": "d2b246438e685ca9141454d50e6aa261"
           }
         },
@@ -2297,7 +2297,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1309747,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/mob_grinding_utils-1.16.5-0.4.37.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/mob_grinding_utils-1.16.5-0.4.37.jar",
             "MD5": "ca150d22d4e25d20003968f0d1b3d0d8"
           }
         },
@@ -2307,7 +2307,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10221,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/modnametooltip_1.16.2-1.15.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/modnametooltip_1.16.2-1.15.0.jar",
             "MD5": "0786fa0d926ebf6fdba6053937bed914"
           }
         },
@@ -2317,7 +2317,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1081034,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/modular-routers-1.16.5-7.5.2-83.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/modular-routers-1.16.5-7.5.2-83.jar",
             "MD5": "8fadfa88480a1d5e01dbc08a40099f5b"
           }
         },
@@ -2327,7 +2327,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 252398,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/MoreJellyfish-1.1.7.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/MoreJellyfish-1.1.7.jar",
             "MD5": "ce4d560e88aedfb25c5a435443b6144e"
           }
         },
@@ -2337,7 +2337,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 86427,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/moreoverlays-1.18.19-mc1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/moreoverlays-1.18.19-mc1.16.5.jar",
             "MD5": "8275ad54545fa92c0f188cb8a0a73cae"
           }
         },
@@ -2347,7 +2347,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 612457,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/morered-1.16.5-2.1.1.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/morered-1.16.5-2.1.1.0.jar",
             "MD5": "ba2c64037a230e8bddd14b5a1fa022db"
           }
         },
@@ -2357,7 +2357,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 265717,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/morevillagers-FORGE-1.16.5-1.5.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/morevillagers-FORGE-1.16.5-1.5.5.jar",
             "MD5": "28a662fada78a316e30d675c4cce0a16"
           }
         },
@@ -2367,7 +2367,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 24390,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Morpheus-1.16.5-4.2.70.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Morpheus-1.16.5-4.2.70.jar",
             "MD5": "a7833a6c8cf784058d8dfdd792f788e1"
           }
         },
@@ -2377,7 +2377,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 58249,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/MouseTweaks-2.14-mc1.16.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/MouseTweaks-2.14-mc1.16.2.jar",
             "MD5": "3b4e04a9a79094149306457c7db838d5"
           }
         },
@@ -2387,7 +2387,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 111273,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/MysticalAdaptations-1.16.5-1.2.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/MysticalAdaptations-1.16.5-1.2.2.jar",
             "MD5": "f10022fd2eec537ed7794fbb412c93dc"
           }
         },
@@ -2397,7 +2397,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 259873,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/MysticalAgradditions-1.16.5-4.2.4.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/MysticalAgradditions-1.16.5-4.2.4.jar",
             "MD5": "2e90ebbba76d220cd19bd39e980df235"
           }
         },
@@ -2407,7 +2407,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1604679,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/MysticalAgriculture-1.16.5-4.2.6.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/MysticalAgriculture-1.16.5-4.2.6.jar",
             "MD5": "b422bce3e7ccf70d9662187ab97f4161"
           }
         },
@@ -2417,7 +2417,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 43671,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/MysticalCustomization-1.16.5-2.1.7.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/MysticalCustomization-1.16.5-2.1.7.jar",
             "MD5": "56c6a2afebf003820210dfb06d6578c7"
           }
         },
@@ -2427,7 +2427,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2120826,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/MythicBotany-1.16.5-1.4.19.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/MythicBotany-1.16.5-1.4.19.jar",
             "MD5": "3d5c21c7b53810925601bc5b525a6b34"
           }
         },
@@ -2437,7 +2437,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 203573,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/NaturesCompass-1.16.5-1.9.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/NaturesCompass-1.16.5-1.9.1-forge.jar",
             "MD5": "1ed5def709b0b9d0f40db32d0877fad0"
           }
         },
@@ -2447,7 +2447,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4320518,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/neapolitan-1.16.5-2.2.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/neapolitan-1.16.5-2.2.1.jar",
             "MD5": "2a3556a17e6fc7122e5034220a902b53"
           }
         },
@@ -2457,7 +2457,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21664,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Neat%201.7-27.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Neat%201.7-27.jar",
             "MD5": "f42a01e1a0baa1292f58a889b33cc473"
           }
         },
@@ -2467,7 +2467,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 110010,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/NetherPortalFix_1.16.3-7.2.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/NetherPortalFix_1.16.3-7.2.1.jar",
             "MD5": "b5407bdd857e73236ff10d204f9fe8d5"
           }
         },
@@ -2477,7 +2477,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 39265,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/nomowanderer_MC1.16.5_1.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/nomowanderer_MC1.16.5_1.2.jar",
             "MD5": "55575a0f8b8b1a485374ef8c84feb94a"
           }
         },
@@ -2487,7 +2487,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 150815,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/observerlib-1.16.5-1.5.3.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/observerlib-1.16.5-1.5.3.jar",
             "MD5": "b6590d3ac637933dae3a5a8e28d4aa51"
           }
         },
@@ -2497,7 +2497,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3133901,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/oculus-mc1.16.5-1.4.8.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/oculus-mc1.16.5-1.4.8.jar",
             "MD5": "568661a2dd12b461674c7f3a80837804"
           }
         },
@@ -2507,7 +2507,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 281216,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/OreExcavation-1.8.157.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/OreExcavation-1.8.157.jar",
             "MD5": "0200e30457b646caae852c84d7619842"
           }
         },
@@ -2517,7 +2517,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 80794,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/OreTweaker-1.16.5-2.7.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/OreTweaker-1.16.5-2.7.1.jar",
             "MD5": "3933d355f47bc240badddca127911cd1"
           }
         },
@@ -2527,7 +2527,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4397820,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Overloaded-1.16.5-0.0.98.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Overloaded-1.16.5-0.0.98.jar",
             "MD5": "edc566be71749a80c34bfe62a954a0cf"
           }
         },
@@ -2537,7 +2537,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 13362,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/overloadedarmorbar-5.1.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/overloadedarmorbar-5.1.0.jar",
             "MD5": "1be552a71b52b662ecb0ed5ff1489504"
           }
         },
@@ -2547,7 +2547,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 540313,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/PackMenu-1.16.5-2.5.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/PackMenu-1.16.5-2.5.0.jar",
             "MD5": "a84f2bc222d795e9350d55140e24886f"
           }
         },
@@ -2557,7 +2557,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 804052,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/pamhc2crops-1.16.3-1.0.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/pamhc2crops-1.16.3-1.0.2.jar",
             "MD5": "2ef2a5f48df1ae92cd699ebc8df80726"
           }
         },
@@ -2567,7 +2567,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 328828,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/pamhc2foodcore-1.16.3-1.0.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/pamhc2foodcore-1.16.3-1.0.2.jar",
             "MD5": "88da1864403de90d0cfeb05f9cff8b50"
           }
         },
@@ -2577,7 +2577,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1926268,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/pamhc2foodextended-1.16.3-1.0.4.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/pamhc2foodextended-1.16.3-1.0.4.jar",
             "MD5": "96a206dcf62cce58266ca942147d9622"
           }
         },
@@ -2587,7 +2587,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 545339,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/pamhc2trees-1.16.3-1.0.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/pamhc2trees-1.16.3-1.0.1.jar",
             "MD5": "eaccf7a7856ededfc92ebf4b2e74d8b8"
           }
         },
@@ -2597,7 +2597,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 593352,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Patchouli-1.16.4-53.3.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Patchouli-1.16.4-53.3.jar",
             "MD5": "a4791ba66914beed9bb755ae1a84ca87"
           }
         },
@@ -2607,7 +2607,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 254793,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/pathundergates-1.16.4-2.0.0-release.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/pathundergates-1.16.4-2.0.0-release.jar",
             "MD5": "577cc81c767b40968864e0ef442f9b6f"
           }
         },
@@ -2617,7 +2617,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 770745,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/pipez-1.16.5-1.2.15.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/pipez-1.16.5-1.2.15.jar",
             "MD5": "3cf1bdc314e1bf82fb672b939afc28f4"
           }
         },
@@ -2627,7 +2627,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 165522,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Placebo-1.16.5-4.7.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Placebo-1.16.5-4.7.0.jar",
             "MD5": "0fbcdd597432d365527f72e0db98c07f"
           }
         },
@@ -2637,7 +2637,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10127673,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/pneumaticcraft-repressurized-1.16.5-2.15.12-13.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/pneumaticcraft-repressurized-1.16.5-2.15.12-13.jar",
             "MD5": "edc05b9f431a2a2492e2bdf242df0ef2"
           }
         },
@@ -2647,7 +2647,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1192090,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Powah-1.16.5-2.3.16.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Powah-1.16.5-2.3.16.jar",
             "MD5": "d3847b91959b771d2a555619733966c0"
           }
         },
@@ -2657,7 +2657,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2099991,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ProjectE-1.16.5-PE1.0.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ProjectE-1.16.5-PE1.0.2.jar",
             "MD5": "848dc3a796f9723c49e14bf374b2ba58"
           }
         },
@@ -2667,7 +2667,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 435413,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/projectex-1605.2.0-build.3.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/projectex-1605.2.0-build.3.jar",
             "MD5": "5534c044cd6fafd0578adfc073822fd1"
           }
         },
@@ -2677,7 +2677,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2177320,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Psi%201.16-97.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Psi%201.16-97.jar",
             "MD5": "d19f8504fbed6887c2c179102d179377"
           }
         },
@@ -2687,7 +2687,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8796901,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Quark-r2.4-322.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Quark-r2.4-322.jar",
             "MD5": "1144d99278adcedb6bfac69842fbdf48"
           }
         },
@@ -2697,7 +2697,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1896,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/QuarkOddities-1.16.3.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/QuarkOddities-1.16.3.jar",
             "MD5": "6c608cd82a2c42570a899fade0d367fe"
           }
         },
@@ -2707,7 +2707,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 104388,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/radon-0.8.0a.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/radon-0.8.0a.jar",
             "MD5": "d8fc7bcb28eae4aef5c65306719ba992"
           }
         },
@@ -2717,7 +2717,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 423940,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/randompatches-2.4.4-forge.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/randompatches-2.4.4-forge.jar",
             "MD5": "46f910c39ee95a9dc1edf27dad5f1122"
           }
         },
@@ -2727,7 +2727,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 144561,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ratlantis-1.0.0-1.16.3.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ratlantis-1.0.0-1.16.3.jar",
             "MD5": "b3e4a808260ec741b84abc85f0f470ef"
           }
         },
@@ -2737,7 +2737,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5702897,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/rats-7.1.1-1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/rats-7.1.1-1.16.5.jar",
             "MD5": "7a600bf098a29e6e923fd2733673f23d"
           }
         },
@@ -2747,7 +2747,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3224131,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/refinedstorage-1.9.18.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/refinedstorage-1.9.18.jar",
             "MD5": "2538a9c304ed5f8240b43afe55e71e03"
           }
         },
@@ -2757,7 +2757,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 32634,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/refinedstorageaddons-0.7.4.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/refinedstorageaddons-0.7.4.jar",
             "MD5": "d81c8d2571386f8e860c3521deab3341"
           }
         },
@@ -2767,7 +2767,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1470776,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/reliquary-1.16.5-1.3.5.1124.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/reliquary-1.16.5-1.3.5.1124.jar",
             "MD5": "84bf1a0cc6927d3d6a2ea8cb6c02aaac"
           }
         },
@@ -2777,7 +2777,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5037085,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ResourcefulBees-1.16.5-0.10.7.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ResourcefulBees-1.16.5-0.10.7.jar",
             "MD5": "ea2f0a1458ecc695cc707794982da246"
           }
         },
@@ -2787,7 +2787,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 46611,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/restrictions-1.16-3.0.6.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/restrictions-1.16-3.0.6.jar",
             "MD5": "08086486aaf4c37acbb480108181fabd"
           }
         },
@@ -2797,7 +2797,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 415673,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/rftoolsbase-1.16-2.1.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/rftoolsbase-1.16-2.1.5.jar",
             "MD5": "d226cb35eec153002ee95a8e4e0f3280"
           }
         },
@@ -2807,7 +2807,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 540470,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/rftoolsbuilder-1.16-3.1.11.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/rftoolsbuilder-1.16-3.1.11.jar",
             "MD5": "109b3b304a138034681f5d9853c62431"
           }
         },
@@ -2817,7 +2817,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 591156,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/rftoolscontrol-1.16-4.0.18.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/rftoolscontrol-1.16-4.0.18.jar",
             "MD5": "91e71cec9939ac3fcfe7455bf25029a7"
           }
         },
@@ -2827,7 +2827,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1492113,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/rftoolsdim-1.16-7.0.21.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/rftoolsdim-1.16-7.0.21.jar",
             "MD5": "04854defeb72349085e927564e8bbdfb"
           }
         },
@@ -2837,7 +2837,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 558179,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/rftoolspower-1.16-3.0.14.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/rftoolspower-1.16-3.0.14.jar",
             "MD5": "bd0803c99bdbd5ded08e0881e47f88cc"
           }
         },
@@ -2847,7 +2847,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 364972,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/rftoolsstorage-1.16-2.0.19.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/rftoolsstorage-1.16-2.0.19.jar",
             "MD5": "da2f2384fd71c3da0671ae4f5e2da9c1"
           }
         },
@@ -2857,7 +2857,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1598687,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/rftoolsutility-1.16-3.1.16.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/rftoolsutility-1.16-3.1.16.jar",
             "MD5": "a4d9e263068e2b4e9ad31253db185f1d"
           }
         },
@@ -2867,7 +2867,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1030440,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/rhino-forge-1605.1.5-build.75.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/rhino-forge-1605.1.5-build.75.jar",
             "MD5": "755de4e8b6fb352d979c7900894de29c"
           }
         },
@@ -2877,7 +2877,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 904261,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/rsgauges-1.16.5-1.2.16.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/rsgauges-1.16.5-1.2.16.jar",
             "MD5": "6902b51b8f0b413ea755b9c5382c6864"
           }
         },
@@ -2887,7 +2887,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 24407,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/RSInfinityBooster-1.16.5-1.1+13.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/RSInfinityBooster-1.16.5-1.1+13.jar",
             "MD5": "a73d2ddbf16ada978bc314fd06d94d03"
           }
         },
@@ -2897,7 +2897,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 124744,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/RSLargePatterns-1.16.5-2.1.0.3.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/RSLargePatterns-1.16.5-2.1.0.3.jar",
             "MD5": "cd0a09aa24a2e043b1ef2f294dec8a91"
           }
         },
@@ -2907,7 +2907,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 62148,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/rsrequestify-1.16.5-2.1.6.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/rsrequestify-1.16.5-2.1.6.jar",
             "MD5": "f108f3d1afec1cfc583b5a860ca4517e"
           }
         },
@@ -2917,7 +2917,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 313734,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/rubidium-extra-0.4.18+mc1.16.5-build.107.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/rubidium-extra-0.4.18+mc1.16.5-build.107.jar",
             "MD5": "487bea7026df58a87fa3582b17c5ddcc"
           }
         },
@@ -2927,7 +2927,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 625052,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/rubidium-mc1.16.5-0.2.13.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/rubidium-mc1.16.5-0.2.13.jar",
             "MD5": "908bbd1fd7b988bc61d685344e6de496"
           }
         },
@@ -2937,7 +2937,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11277,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Runelic-1.16.5-7.0.3.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Runelic-1.16.5-7.0.3.jar",
             "MD5": "9f278866f6c517c389584d6da309c859"
           }
         },
@@ -2947,7 +2947,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1271118,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/savageandravage-1.16.5-3.2.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/savageandravage-1.16.5-3.2.0.jar",
             "MD5": "ef44257b5ab6023b23e0edb9450fce71"
           }
         },
@@ -2957,7 +2957,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 366213,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/scannable-1.16.5-forge-1.7.6+00198b7.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/scannable-1.16.5-forge-1.7.6+00198b7.jar",
             "MD5": "40b122d32d7bb4df31bd801eaa01dfe0"
           }
         },
@@ -2967,7 +2967,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 218460,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/selene-1.16.5-1.9.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/selene-1.16.5-1.9.0.jar",
             "MD5": "2edb1ffe6040a68d242bd80cec3cb98d"
           }
         },
@@ -2977,7 +2977,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 446151,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/shetiphiancore-1.16-3.8.16.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/shetiphiancore-1.16-3.8.16.jar",
             "MD5": "e2c3a5536f00df463eaef88908d9251d"
           }
         },
@@ -2987,7 +2987,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 122607,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/SimpleDiscordRichPresence-1.4.0-build.3+mc1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/SimpleDiscordRichPresence-1.4.0-build.3+mc1.16.5.jar",
             "MD5": "038caa2c175628b50575682f6e00327e"
           }
         },
@@ -2997,7 +2997,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 555850,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/SimplyJetpacks2-1.16.5-2.6.12.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/SimplyJetpacks2-1.16.5-2.6.12.1.jar",
             "MD5": "ab27eee04cdf7aea82fc7aa90256cc03"
           }
         },
@@ -3007,7 +3007,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 548669,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/simplylight-1.16.5-1.4.2-build.32.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/simplylight-1.16.5-1.4.2-build.32.jar",
             "MD5": "0a98756eedbbfaf5c8e4f8f34b821ce8"
           }
         },
@@ -3017,7 +3017,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 121064,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/SoL-Carrot-1.16.5-1.10.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/SoL-Carrot-1.16.5-1.10.1.jar",
             "MD5": "876504e548fabd94029db6aa34420502"
           }
         },
@@ -3027,7 +3027,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 193361,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/SolarFluxReborn-1.16.5-16.3.9.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/SolarFluxReborn-1.16.5-16.3.9.jar",
             "MD5": "0a8af657d7f852a5143c68420d2aae68"
           }
         },
@@ -3037,7 +3037,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 23205020,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/sonicraft-1.16.5-1.3.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/sonicraft-1.16.5-1.3.1.jar",
             "MD5": "1a4023b88bc1bd297da415de33fc1a17"
           }
         },
@@ -3047,7 +3047,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1485777,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/sophisticatedbackpacks-1.16.5-3.15.20.755.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/sophisticatedbackpacks-1.16.5-3.15.20.755.jar",
             "MD5": "37e2d08e35a1ce66435351e5dc1377ec"
           }
         },
@@ -3057,7 +3057,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3157081,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/spark-1.9.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/spark-1.9.1-forge.jar",
             "MD5": "2d82da0ca51901f70360d555f1257bcd"
           }
         },
@@ -3067,7 +3067,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 101511,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/starlight-1.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/starlight-1.2.jar",
             "MD5": "0300a2592cdb4b82f7203b4f0f9af87b"
           }
         },
@@ -3077,7 +3077,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 575188,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/StorageDrawers-1.16.3-8.5.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/StorageDrawers-1.16.3-8.5.2.jar",
             "MD5": "55d1f8f16010ed6ead36c4b985f2b67b"
           }
         },
@@ -3087,7 +3087,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 261390,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/structure_gel-1.16.5-1.7.8.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/structure_gel-1.16.5-1.7.8.jar",
             "MD5": "04e58adbf28a07c2f649a7f4a5c6ce11"
           }
         },
@@ -3097,7 +3097,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 205206,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/supermartijn642configlib-1.1.6-forge-mc1.16.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/supermartijn642configlib-1.1.6-forge-mc1.16.jar",
             "MD5": "04efe250c4498782de3d0e07494f643e"
           }
         },
@@ -3107,7 +3107,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 206614,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/supermartijn642corelib-1.0.19-forge-mc1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/supermartijn642corelib-1.0.19-forge-mc1.16.5.jar",
             "MD5": "1d2ceb906ecb2a6e07cbabf5b9c8f8e8"
           }
         },
@@ -3117,7 +3117,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 13904480,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/supplementaries-1.16.5-0.18.4b.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/supplementaries-1.16.5-0.18.4b.jar",
             "MD5": "46ede1e22a5008724cc09dd2c21cb6ca"
           }
         },
@@ -3127,7 +3127,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 104601,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/tanknull-2.3-1.16.4.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/tanknull-2.3-1.16.4.jar",
             "MD5": "ba7f83759a0f7ab248fb97ee745496de"
           }
         },
@@ -3137,7 +3137,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10927812,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/TConstruct-1.16.5-3.3.4.335.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/TConstruct-1.16.5-3.3.4.335.jar",
             "MD5": "27978fc015dc861fb4d856d84d123e1a"
           }
         },
@@ -3147,7 +3147,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 211610,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/TextruesRubidiumOptions-1.0.8-mc1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/TextruesRubidiumOptions-1.0.8-mc1.16.5.jar",
             "MD5": "0fc99ba7a200bf915926829b6624e100"
           }
         },
@@ -3157,7 +3157,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 63449848,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/The_Undergarden-1.16.5-0.5.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/The_Undergarden-1.16.5-0.5.5.jar",
             "MD5": "eab2eb6fe6bb96623670d354ce0086ef"
           }
         },
@@ -3167,7 +3167,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 326985,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/theoneprobe-1.16-3.1.7.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/theoneprobe-1.16-3.1.7.jar",
             "MD5": "7a6c1857197e8f73a618459f4efb339d"
           }
         },
@@ -3177,7 +3177,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 663253,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/thermal_cultivation-1.16.5-1.5.0.4.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/thermal_cultivation-1.16.5-1.5.0.4.jar",
             "MD5": "f7f4f805f33072d84bc8b1d5f2b46978"
           }
         },
@@ -3187,7 +3187,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 709664,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/thermal_expansion-1.16.5-1.5.2.16.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/thermal_expansion-1.16.5-1.5.2.16.jar",
             "MD5": "faf4c22d41149e2694bf9eee5f7ef35a"
           }
         },
@@ -3197,7 +3197,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5038968,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/thermal_foundation-1.16.5-1.5.2.30.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/thermal_foundation-1.16.5-1.5.2.30.jar",
             "MD5": "5b3a372139dd4225f25e46a77a32dbab"
           }
         },
@@ -3207,7 +3207,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 229334,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/thermal_innovation-1.16.5-1.5.0.4.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/thermal_innovation-1.16.5-1.5.0.4.jar",
             "MD5": "e0df9d40ee54d825eaa5240b9c42c573"
           }
         },
@@ -3217,7 +3217,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 37088,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/time-in-a-bottle-1.1.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/time-in-a-bottle-1.1.0.jar",
             "MD5": "13a0fe7a09d90d7bb277195d13eb6684"
           }
         },
@@ -3227,7 +3227,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 635229,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/titanium-1.16.5-3.2.8.4-10.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/titanium-1.16.5-3.2.8.4-10.jar",
             "MD5": "7e11f28ccb59508e22be363dfc05400f"
           }
         },
@@ -3237,7 +3237,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 24755,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ToastControl-1.16.5-4.4.0.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ToastControl-1.16.5-4.4.0.jar",
             "MD5": "241050e152a5c6097da47bc999dc3ec8"
           }
         },
@@ -3247,7 +3247,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 74636,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/tomeofblood-1.16.5-1.2.3.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/tomeofblood-1.16.5-1.2.3.jar",
             "MD5": "b62c3b6220581093aa8f914510cd6d0a"
           }
         },
@@ -3257,7 +3257,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 160677,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/topaddons-1.16.5-2.2.0-beta.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/topaddons-1.16.5-2.2.0-beta.jar",
             "MD5": "a22678b817c73433ceffc4b56f61abde"
           }
         },
@@ -3267,7 +3267,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 157181,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/towers_of_the_wild-1.16.4-2.0.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/towers_of_the_wild-1.16.4-2.0.1.jar",
             "MD5": "d9b9ef1d953502aa28622c5d02f762e1"
           }
         },
@@ -3277,7 +3277,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 146807,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/trashcans-1.0.15-forge-mc1.16.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/trashcans-1.0.15-forge-mc1.16.jar",
             "MD5": "dbc2ba0164cd36eaff0de22e076a19d5"
           }
         },
@@ -3287,7 +3287,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 61032,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/TrashSlot_1.16.3-12.2.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/TrashSlot_1.16.3-12.2.1.jar",
             "MD5": "6379a23830acc94efa27eb5470e1bf22"
           }
         },
@@ -3297,7 +3297,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 66496,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/TravelAnchors-2.4.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/TravelAnchors-2.4.jar",
             "MD5": "ea7bd08eff39a4404a1a0a01513b8632"
           }
         },
@@ -3307,7 +3307,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 31748538,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/twilightforest-1.16.5-4.0.870-universal.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/twilightforest-1.16.5-4.0.870-universal.jar",
             "MD5": "bc9f7d1c53369268094e970edd26a43c"
           }
         },
@@ -3317,7 +3317,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 397158,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/u_team_core-1.16.5-3.2.1.229.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/u_team_core-1.16.5-3.2.1.229.jar",
             "MD5": "303f62b73ad6141820fdeec86dce021e"
           }
         },
@@ -3327,7 +3327,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3682686,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/upgrade_aquatic-1.16.5-3.1.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/upgrade_aquatic-1.16.5-3.1.2.jar",
             "MD5": "0c76f920a78f582d75624b7647e584e1"
           }
         },
@@ -3337,7 +3337,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 29447,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/upgradedcore-1.16.5-1.1.0.3-release.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/upgradedcore-1.16.5-1.1.0.3-release.jar",
             "MD5": "f50ca893f539f87b577cb359c75237d1"
           }
         },
@@ -3347,7 +3347,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1066478,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/upgradednetherite-1.16.5-2.1.0.1-release.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/upgradednetherite-1.16.5-2.1.0.1-release.jar",
             "MD5": "cc7e6c7c578395cd152590da3ffce76a"
           }
         },
@@ -3357,7 +3357,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 608118,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/valhelsia_core-16.0.15.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/valhelsia_core-16.0.15.jar",
             "MD5": "39bfa258ac7c15b3787838df57b4d872"
           }
         },
@@ -3367,7 +3367,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1287019,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/valkyrielib-1.16.5-3.0.9.5.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/valkyrielib-1.16.5-3.0.9.5.jar",
             "MD5": "03a96203953cb2d7848a90c5d2db01e6"
           }
         },
@@ -3377,7 +3377,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 375934,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/Waystones_1.16.5-7.6.4.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/Waystones_1.16.5-7.6.4.jar",
             "MD5": "a73806ee8f30e26705503013a54a5961"
           }
         },
@@ -3387,7 +3387,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 27401,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/WitherSkeletonTweaks-1.16.5-5.4.1.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/WitherSkeletonTweaks-1.16.5-5.4.1.jar",
             "MD5": "f7546e147b1b541d275efb778999fa33"
           }
         },
@@ -3397,7 +3397,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1108362,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/woot-1.16.5-1.0.8.4.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/woot-1.16.5-1.0.8.4.jar",
             "MD5": "21af86cbcdda2359f3d987e50e567ba5"
           }
         },
@@ -3407,7 +3407,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 857573,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/wormhole-1.1.10-forge-mc1.16.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/wormhole-1.1.10-forge-mc1.16.jar",
             "MD5": "32530611d2dc5ed2b870478ae83756e3"
           }
         },
@@ -3417,7 +3417,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5261,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/xlpackets-1.16.4-1.2.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/xlpackets-1.16.4-1.2.jar",
             "MD5": "ba2a2f2e729bc614afe101a7e8e48a23"
           }
         },
@@ -3427,7 +3427,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 522848,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/xnet-1.16-3.0.17.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/xnet-1.16-3.0.17.jar",
             "MD5": "79489bf101984fde25ee0f3580dd7596"
           }
         },
@@ -3437,7 +3437,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 264705,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/XNetGases-1.16.5-2.3.10.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/XNetGases-1.16.5-2.3.10.jar",
             "MD5": "d8b934dbc283ad4b6a473b72f00a233f"
           }
         },
@@ -3447,7 +3447,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 106058,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/YungsApi-1.16.4-Forge-13.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/YungsApi-1.16.4-Forge-13.jar",
             "MD5": "d9bb57c12da921556bfd981c37f9a49a"
           }
         },
@@ -3457,7 +3457,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1125508,
-            "url": "https://github.com/Thinsh0/ServerPotoGames/raw/refs/heads/master/servers/main-1.16.5/forgemods/required/ZeroCore2-1.16.5-2.1.26.jar",
+            "url": "https://raw.githubusercontent.com/Thinsh0/ServerPotoGames/master/servers/main-1.16.5/forgemods/required/ZeroCore2-1.16.5-2.1.26.jar",
             "MD5": "a37196dd60bfe75e180c8603744ad410"
           }
         }
